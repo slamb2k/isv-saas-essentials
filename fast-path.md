@@ -17,3 +17,4 @@ Get up and running quickly.
 - Set up [cost management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) in Azure to avoid any surprise bills
 - Set up [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) to get get  recommendations around cost optimization, security, performance and more
 - Evaluate these [Azure service / architecture options](https://docs.microsoft.com/en-us/azure/architecture/browse/) to find the right real world Azure architecture for your service.
+- Consider what tenant isolation or sharing model you will implement using our [multitenant architectural guidance](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/overview)
