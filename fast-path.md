@@ -17,7 +17,8 @@ Get up and running quickly.
 - Set up [Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) in Azure to avoid any surprise bills.
 - Set up [Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview) to receive recommendations around cost optimization, security, performance and more.
 - Understand  these [recommended Azure architectures](https://docs.microsoft.com/en-us/azure/architecture/browse/) to find the right real world Azure architecture for your app.
-- Consider what tenant isolation or sharing model you will implement using our [multitenant architectural guidance](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/overview).
+- If you are a startup, consider this specialisted [architecture guidance for startups](https://aka.ms/StartupArchitecture)
+- Consider what tenant isolation or sharing model you will implement using our [multitenant architectural guidance](https://aka.ms/MultitenantArchitecture).
 
 ## Build your app
 Create a solid plan and reduce risks during development and/or migration.
@@ -46,3 +47,4 @@ Accelerate your Go-to-Market strategy and innovate your product to drive competi
 - Extend your app with [Machine Learning](https://azure.microsoft.com/en-au/services/machine-learning/) and [AI Cognitive Services](https://azure.microsoft.com/en-au/services/cognitive-services/) to discover new insights and respond to events programmatically.
 - Schedule quarterly [Azure Advisor](https://azure.microsoft.com/en-us/services/advisor/) review of cost saving, performance and security recommendations.
 - Schedule annual [cost optimisation and well architected framework review](https://docs.microsoft.com/en-us/assessments/?mode=pre-assessment&session=local).
+- Stay up to date with the latest expert guidance from the [Microsoft SaaS Academy](https://www.microsoft.com/en-us/saas-academy/main)
